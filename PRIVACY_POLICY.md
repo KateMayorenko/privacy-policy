@@ -213,8 +213,8 @@ For privacy-related questions or requests:
 
 **Email:** komnatnaya26@gmail.com 
 **Data Protection Officer:** komnatnaya26@gmail.com   
-**Website:** [(https://github.com/KateMayorenko/privacy-policy)]
-**Support:** [(https://github.com/KateMayorenko/privacy-policy)]
+**Website:** (https://github.com/KateMayorenko/privacy-policy)
+**Support:** (https://github.com/KateMayorenko/privacy-policy)
 
 ---
 
