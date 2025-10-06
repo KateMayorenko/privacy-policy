@@ -1,4 +1,4 @@
-# Legal Documents - [Your App Name]
+# Legal Documents - Code All Out
 
 ## Documents
 - [Terms of Service](TERMS_OF_SERVICE.md)
