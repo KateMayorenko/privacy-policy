@@ -121,7 +121,7 @@ You agree to:
 - Our Privacy Policy governs how we collect, use, and protect your data
 - We comply with GDPR, CCPA, and applicable data protection laws
 - You can request data deletion or export at any time
-- See our full Privacy Policy at: (https://github.com/KateMayorenko/privacy-policy/)
+- See our full Privacy Policy at: (https://github.com/KateMayorenko/tiktok-app-legal/)
 
 ## 11. Third-Party Services
 
