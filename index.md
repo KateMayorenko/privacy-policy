@@ -6,6 +6,6 @@
 
 ## Contact
 - Email: komnatnaya26@gmail.com
-- Website: https://github.com/KateMayorenko/privacy-policy
+- Website: https://github.com/KateMayorenko/tiktok-app-legal
 
 Last Updated: October 6, 2025
