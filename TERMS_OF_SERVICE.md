@@ -4,13 +4,13 @@
 
 ## 1. Introduction
 
-Welcome to code all out ("App", "Service", "we", "us", or "our"). These Terms of Service ("Terms") govern your access to and use of our application that integrates with TikTok's platform.
+Welcome to "Code All Out" ("App", "Service", "we", "us", or "our"). These Terms of Service ("Terms") govern your access to and use of our application that integrates with TikTok's platform.
 
 By accessing or using our Service, you agree to be bound by these Terms. If you do not agree to these Terms, do not use our Service.
 
 ## 2. Description of Service
 
-code all out is an automation tool that helps users create and manage short-form video content. Our Service provides:
+"Code All Out" is an automation tool that helps users create and manage short-form video content. Our Service provides:
 
 - Automated content generation using AI
 - Video editing and processing capabilities
@@ -153,7 +153,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 ## 14. Indemnification
 
-You agree to indemnify and hold harmless code all out, its officers, directors, employees, and agents from any claims, damages, losses, or expenses (including legal fees) arising from:
+You agree to indemnify and hold harmless "Code All Out", its officers, directors, employees, and agents from any claims, damages, losses, or expenses (including legal fees) arising from:
 
 - Your violation of these Terms
 - Your violation of any laws or third-party rights
